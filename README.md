@@ -69,7 +69,7 @@ I enjoy working with data to uncover insights, build predictive models, and deve
 - **Focus:** LLM applications, RAG, model evaluation, and financial analytics
 - **Highlights:** Fine-tuned a Gemini model and built a side-by-side evaluation interface comparing the fine-tuned and base models.
 
-#### 🧠 Applied Deep Learning — Waste & News Classification (https://github.com/KingBisky/Applied_Deep_Learning_Assignment)
+#### 🧠 [Applied Deep Learning — Waste & News Classification](https://github.com/KingBisky/Applied_Deep_Learning_Assignment)
 *Deep learning coursework covering computer vision and NLP.*
 
 - **Tech:** TensorFlow, Keras, VGG16, CNN, BiLSTM, DistilBERT, Hugging Face
