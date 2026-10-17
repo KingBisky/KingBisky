@@ -13,13 +13,17 @@ I enjoy working with data to uncover insights, build predictive models, and deve
 
 ---
 
-### 💼 Industry Experience
+## 💼 Industry Experience
 
 **Digital Transformation Intern @ TOPPAN Ecquaria**  
 *Sep 2026 – Present*
 
-- 🌐 Gaining hands-on exposure to the **KAIZEN Agentic Platform** and web application development.
-- 🔄 Learning **Agile/Scrum and Kaizen-based development** through training and application-related tasks.
+- 🌐 Supporting Fiji government digitalisation projects by familiarising myself with government e-services, application workflows, and system functionalities.
+- 🧪 Assisting with User Acceptance Testing (UAT) to validate application workflows, system functionality, and document migration across different projects.
+- 🔍 Identifying and documenting discrepancies, missing documents, layout inconsistencies, and functional issues for further investigation.
+- 🔐 Supporting backend account management activities, including user account creation, role assignment, and access verification.
+- 🤝 Collaborating with project team members and fellow interns to carry out testing activities, document findings, and support project requirements.
+- 💻 Gaining exposure to the KAIZEN low-code platform and its application development capabilities, including workflows, user interfaces, and backend functionalities.
 
 ---
 
