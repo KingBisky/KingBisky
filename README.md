@@ -13,8 +13,6 @@ I enjoy working with data to uncover insights, build predictive models, and deve
 
 ---
 
-# 💼 Internship Experience
-
 **Digital Transformation Intern @ TOPPAN Ecquaria**  
 *September 2026 – Present*
 
@@ -23,11 +21,11 @@ Gained exposure to enterprise applications, government digitalisation and softwa
 ### Key Project
 
 **eLitigation – InfoPath-to-KAIZEN Document Migration**
-- Conducted front-end and back-end UAT to validate the migration of legal case documents from Microsoft InfoPath to KAIZEN.
-- Tested document View and Edit functionalities, comparing migrated documents against their original versions to verify content, formatting and functionality.
-- Identified and reported defects, including missing content, layout inconsistencies and non-functional elements, using Mantis.
-- Retested fixes following deployment to the UAT environment to verify issue resolution.
-- **Outcome:** Achieved a 100% UAT pass rate across the tested View and Edit cases by the completion of the testing phase.
+- Conducted UAT to validate migrated legal case documents by comparing original InfoPath documents against their KAIZEN counterparts.
+- Performed document validation through the eLitigation front-end and back-end portals.
+- Checked View and Edit functionalities, identifying discrepancies in document content, formatting, layouts and functionality.
+- Reported defects using Mantis and retested fixes following deployment to the UAT environment.
+- **Outcome:** Achieved a 100% UAT pass rate across the tested View and Edit cases upon completion of the testing phase.
 
 ### Additional Experience
 - Explored Fiji government e-services, including business registration, application processing and approval workflows.
