@@ -13,17 +13,26 @@ I enjoy working with data to uncover insights, build predictive models, and deve
 
 ---
 
-## 💼 Industry Experience
+# 💼 Internship Experience
 
 **Digital Transformation Intern @ TOPPAN Ecquaria**  
-*Sep 2026 – Present*
+*September 2026 – Present*
 
-- 🌐 Supporting Fiji government digitalisation projects by familiarising myself with government e-services, application workflows, and system functionalities.
-- 🧪 Assisting with User Acceptance Testing (UAT) to validate application workflows, system functionality, and document migration across different projects.
-- 🔍 Identifying and documenting discrepancies, missing documents, layout inconsistencies, and functional issues for further investigation.
-- 🔐 Supporting backend account management activities, including user account creation, role assignment, and access verification.
-- 🤝 Collaborating with project team members and fellow interns to carry out testing activities, document findings, and support project requirements.
-- 💻 Gaining exposure to the KAIZEN low-code platform and its application development capabilities, including workflows, user interfaces, and backend functionalities.
+Gained exposure to enterprise applications, government digitalisation and software testing through various project assignments.
+
+### Key Project
+
+**eLitigation – InfoPath-to-KAIZEN Document Migration**
+- Conducted front-end and back-end UAT to validate the migration of legal case documents from Microsoft InfoPath to KAIZEN.
+- Tested document View and Edit functionalities, comparing migrated documents against their original versions to verify content, formatting and functionality.
+- Identified and reported defects, including missing content, layout inconsistencies and non-functional elements, using Mantis.
+- Retested fixes following deployment to the UAT environment to verify issue resolution.
+- **Outcome:** Achieved a 100% UAT pass rate across the tested View and Edit cases by the completion of the testing phase.
+
+### Additional Experience
+- Explored Fiji government e-services, including business registration, application processing and approval workflows.
+- Received introductory training in KAIZEN low-code application development and completed a small application design exercise.
+- Assisted with a small migration task involving KAIZEN training materials to KAIZEN Academy.
 
 ---
 
